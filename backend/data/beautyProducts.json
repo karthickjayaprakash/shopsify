@@ -1,0 +1,211 @@
+[
+    {
+      "name": "Foundation",
+      "price": 1599,
+      "description": "Foundation - full matte coverage, SPF40 PA++, hydrated & protected skin.",
+      "ratings": 1.5,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Foundation.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 20
+    },
+    {
+      "name": "Eyeshadow Palette",
+      "price": 699,
+      "description": "Eyeshadow Palette: Blendable matte-to-shimmer shades with rich pigment, zero fallout, and skin-strengthening care.",
+      "ratings": 4.8,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Eyeshadow.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 15
+    },
+    {
+      "name": "Mascara",
+      "price": 959,
+      "description": "Mascara delivers long-lasting, smudge-proof volume and curl that stays flawless all day.",
+      "ratings": 4.1,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Mascara.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 30
+    },
+    {
+      "name": "Eyeliner",
+      "price": 479,
+      "description": "Eyeliner: smudge-proof, water-resistant, precise lines with soothing comfort.",
+      "ratings": 2.3,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Eyeliner.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 24
+    },
+    {
+      "name": "Eyebrow Pencil",
+      "price": 559,
+      "description": "Brow Pencil: waterproof, sweatproof, natural-looking brows with a nourishing pencil-to-powder formula.",
+      "ratings": 4.4,
+      "images": [
+        {
+          "image": "/images/beautyProducts/EnhancerPencil.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 16
+    },
+    {
+      "name": "Liquid Colour Corrector",
+      "price": 679,
+      "description": "Colour Corrector - Orange: Neutralizes dark circles & spots for a flawless base.HD Liquid Colour Corrector - Orange(3.8gm)",
+      "ratings": 2.7,
+      "images": [
+        {
+          "image": "/images/beautyProducts/ColourCorrector.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 26
+    },
+    {
+      "name": "Contour Stick",
+      "price": 580,
+      "description": "Contour Stick - Caramel Focus: a blendable, long-wear stick that defines and sculpts with a natural matte finish.",
+      "ratings": 4.2,
+      "images": [
+        {
+          "image": "/images/beautyProducts/ContourStick.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 22
+    },
+    {
+      "name": "Primer",
+      "price": 959,
+      "description": "Pore Blurring Primer: smooths skin, minimizes pores, and creates a flawless base for makeup.Sheer Silk Primer With Green Tea Extract (25g)",
+      "ratings": 4.2,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Primer.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "stock": 30
+    },
+    {
+      "name": "Eye Kajal",
+      "price": 239,
+      "description": "Waterproof 24Hr Kajal - Spade Black: intense, smudge-proof black kajal for long-lasting, bold eyes (0.35g)",
+      "ratings": 1.6,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Kajal.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 12
+    },
+    {
+      "name": "Lip Plumping Gloss",
+      "price": 799,
+      "description": "Lip Plumping Gloss - Gimme Roses: adds color, shine, and a plumping effect for fuller, luscious lips.",
+      "ratings": 4.4,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Gloss.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 37
+    },
+    {
+      "name": "Setting Spray",
+      "price": 959,
+      "description": "Prep Setting Spray: hydrates skin while locking in makeup for a fresh, long-lasting finish.",
+      "ratings": 4.7,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Spray.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 23
+    },
+    {
+      "name": "Loose Powder",
+      "price": 679,
+      "description": "Matte HD Setting Loose Powder: sets makeup with a smooth, shine-free, long-lasting matte finish. ",
+      "ratings": 3.1,
+      "images": [
+        {
+          "image": "/images/beautyProducts/LoosePowder.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 17
+    },
+    {
+      "name": "Blush Stick",
+      "price": 1199,
+      "description": "Jelly Lip & Cheek Popsicle Wand: adds a natural, dewy tint to lips and cheeks for a fresh, radiant look.",
+      "ratings": 4.0,
+      "images": [
+        {
+          "image": "/images/beautyProducts/JellyLip.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 10
+    },
+    {
+      "name": "Lipstick",
+      "price": 899,
+      "description": "Lipstick: delivers rich color with hydrating, creamy comfort for smooth, nourished lips.",
+      "ratings": 4.9,
+      "images": [
+        {
+          "image": "/images/beautyProducts/Lipstick.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 18
+    },
+    {
+      "name": "LipLiner",
+      "price": 519,
+      "description": "Lip Pencil: defines and fills lips with long-lasting, matte color. Lip Pencil: defines and fills lips with long-lasting, matte color.",
+      "ratings": 3.0,
+      "images": [
+        {
+          "image": "/images/beautyProducts/LipPencil.png"
+        }
+      ],
+      "category": "Makeup Products",
+      "seller": "Nykaa",
+      "stock": 26
+    }
+  ]
