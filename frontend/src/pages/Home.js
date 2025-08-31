@@ -10,10 +10,11 @@ export default function Home() {
 
     const [searchParams, setSearchParams] =  useSearchParams()
 
-    console.log("base url", process.env.REACT_APP_API_BASE_URL);
+    const baseUrl = process.env.REACT_APP_API_BASE_URL;
+    console.log("base url", baseUrl);
 
     useEffect(() => {
-        fetch(process.env.REACT_APP_API_BASE_URL+'/products?'+searchParams)
+        fetch(baseUrl+'/products?'+searchParams)
         .then(res => res.json())
         .then( res => setProducts(res.products))
     },[searchParams])

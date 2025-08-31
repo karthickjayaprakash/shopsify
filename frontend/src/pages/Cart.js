@@ -53,7 +53,9 @@ export default function Cart({cartItems, setCartItems}) {
             items: cartItems
           };
         
-        fetch(process.env.REACT_APP_API_BASE_URL+'/order', {
+        const baseUrl = process.env.REACT_APP_API_BASE_URL;
+        console.log("BASE url ", baseUrl);
+        fetch(baseUrl+'/order', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(orderData)
