@@ -7,8 +7,10 @@ export default function ProductDetail({cartItems, setCartItems}) {
     const [qty, setQty] = useState(1);
     const {id} = useParams();
 
+    const baseUrl = process.env.REACT_APP_API_BASE_URL;
+    console.log("base url", baseUrl);
     useEffect(() => {
-        fetch(process.env.REACT_APP_API_BASE_URL+'/product/'+id)
+        fetch(baseUrl+'/product/'+id)
         .then(res => res.json())
         .then( res => setProduct(res.product))
     },[])
